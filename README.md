@@ -138,6 +138,17 @@ You can replace it with your own REST API endpoint for real data.
 * API integration with loading & error handling
 * Responsive Tailwind styling
 * Clean, well-organized, production-ready code
+* Deployed live on vercel
+
+## 🚀 Live Demo
+
+You can view the deployed project here:  
+👉 [## 🚀 Live Demo
+
+You can view the deployed project here:  
+👉 [[https://react-js-jsx-and-css-mastering-fron-mu.vercel.app/](https://react-js-jsx-and-css-mastering-fron-mu.vercel.app/)](https://react-js-jsx-and-css-mastering-fron-tawny.vercel.app/)
+
+
 
 ---
 
